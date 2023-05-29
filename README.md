@@ -1,4 +1,5 @@
-# Hi there, I'm Emrah
+# Hi there, I'm Emrah  👋
+
 # I'm a React Front end Developer 
 
 - 🔭 I’m currently working on react
