@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Emrah
+# I'm a React Front end Developer 
 
-<!--
-**emrahmenek/emrahmenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on react
+- 🌱 I’m currently learning React🤣
+- ⚡ Fun fact: I love to draw and play guitar
 
-Here are some ideas to get you started:
+# Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.flaticon.com/free-icons/html" title="html icons"> 
+<a href="https://www.flaticon.com/free-icons/css" title="css icons">
+<a href="https://www.flaticon.com/free-icons/sass" title="sass icons">
+<a href="https://www.flaticon.com/free-icons/bootstrap" title="bootstrap icons">
+<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">
+<a href="https://www.flaticon.com/free-icons/react" title="react icons">
+<a href="https://www.flaticon.com/free-icons/git" title="git icons">
+<a href="https://www.flaticon.com/free-icons/github" title="github icons">
+<a href="https://www.flaticon.com/free-icons/trello" title="trello icons">
